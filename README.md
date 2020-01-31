@@ -41,6 +41,7 @@ Edit this document to include your answers after each question. Make sure to lea
     Closure is what defines the ability to go in and out of scope
 
 4. Describe the four rules of the 'this' keyword.
+
     1.Window binding refers this to the global scope
     2.Implicit binding refers to what is left of the . using this
     3.Explicit binding refers whatever you want this to refer to
